@@ -1,4 +1,4 @@
-23152250588347438
+23153972975988222
 74AUP1T17GWH
 IC_74AUP1G32GW_125
 
@@ -6,6 +6,13 @@ IC_74AUP1G32GW_125
 0
 5
 5
+ATMEGA328-PU
+DIP787W46P254L3467H508Q28
+
+
+0
+28
+28
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
